@@ -1,7 +1,7 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStealth", "MyStealth.csproj", "{40C217EA-ED40-C9E2-277F-A6A912DA9C28}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B815AFB6-BFC3-10EB-E07C-ACA6834AE470}") = "MyStealth", "Assembly-CSharp.csproj", "{3D539A67-C14C-F058-90D7-2072AC5CB5E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,12 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{40C217EA-ED40-C9E2-277F-A6A912DA9C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{40C217EA-ED40-C9E2-277F-A6A912DA9C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{40C217EA-ED40-C9E2-277F-A6A912DA9C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{40C217EA-ED40-C9E2-277F-A6A912DA9C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D539A67-C14C-F058-90D7-2072AC5CB5E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D539A67-C14C-F058-90D7-2072AC5CB5E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D539A67-C14C-F058-90D7-2072AC5CB5E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D539A67-C14C-F058-90D7-2072AC5CB5E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
